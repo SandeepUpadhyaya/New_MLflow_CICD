@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: sandeep-deep-learning-project
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/SandeepUpadhyaya/New_MLflow_CICD
+Author: SandeepUpadhyaya
+Author-email: sandipme27@gmail.com
+Project-URL: Bug Tracker, https://github.com/SandeepUpadhyaya/New_MLflow_CICD/issues
+
 # New_MLflow_CICD
 
 ## Workflows
